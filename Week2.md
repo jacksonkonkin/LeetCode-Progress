@@ -6,7 +6,7 @@
 - Solved the Maximun Average Subarray problem: this problem is about finding the subarray of a given length k that has the maximum average value
 - Solved the Max Consecutive Ones III problem: this problem is about finding the longest subarray with at most k zeros
 ## Tuesday, March 11, 2025
-
+- Learned about prefix sum and how it can be used to solve problems
 
 ## Wednesday, March 12, 2025
 
